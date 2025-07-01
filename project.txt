@@ -1,0 +1,24 @@
+do models banao 
+phir uhai require karo 
+route banao  user create kay liyae 
+
+
+Project steps:
+
+/route par login and signup hoga 
+/profile par apni profile dikhegi and aapke saved posts dikhenge ,aur ek uploaded section hoga jo abhi nahi bana rahe 
+/feed  yaha par sari images dikhegi 
+/click karkae image open hojaeyegi save kr sakte ho 
+/board/:boardname poora board dikhega 
+
+
+part1: 
+We made register page,login page ,profile page .
+We also used passposrt for authentication .
+And mongodb set-up 
+
+part2:
+We made logout button . 
+used multer and uuid for image upload and file naming 
+show uploaded images on the profile after login .
+

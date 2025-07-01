@@ -1,0 +1,6 @@
+data association 
+
+ek model se dosre model ke data ko jod dena , for example 
+jab user post banayga tou post mai user id hogi or user mai sabhee posts ki id hogi 
+tou hum ek model ke data ko dosre model ke data ko dedete hai aur inh model ko  apaas mai jod daytay hain
+
